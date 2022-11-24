@@ -1,7 +1,7 @@
 {
     "name": "ursim3e",
     "ur_type": "ur3e",
-    "prefix": "rita",
+    "prefix": "",
     "ip_address": "0.0.0.0",
     "rtde_port": 30003
 }
